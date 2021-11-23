@@ -1,4 +1,3 @@
-# Proiect - AEA
 # Multiple-Depot Vehicle Scheduling Problem
 
 ## Adam Cristian și Chipăruș Alexandru-Denis (MOC2)
