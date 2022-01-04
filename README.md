@@ -6,4 +6,4 @@
 
 [Link catre implementarea ACO](https://github.com/KypY12/AEA_MD-VSP_project)
 
-[Link catre implementarea PSO]()
+[Link catre implementarea PSO](https://github.com/adamcristi/AEA_MDVSP_Project)
